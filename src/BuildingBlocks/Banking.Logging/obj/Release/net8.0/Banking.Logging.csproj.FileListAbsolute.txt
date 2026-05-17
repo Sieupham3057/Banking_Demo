@@ -1,0 +1,11 @@
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\bin\Release\net8.0\Banking.Logging.deps.json
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\bin\Release\net8.0\Banking.Logging.dll
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\bin\Release\net8.0\Banking.Logging.pdb
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\obj\Release\net8.0\Banking.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\obj\Release\net8.0\Banking.Logging.AssemblyInfoInputs.cache
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\obj\Release\net8.0\Banking.Logging.AssemblyInfo.cs
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\obj\Release\net8.0\Banking.Logging.csproj.CoreCompileInputs.cache
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\obj\Release\net8.0\Banking.Logging.dll
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\obj\Release\net8.0\refint\Banking.Logging.dll
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\obj\Release\net8.0\Banking.Logging.pdb
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Logging\obj\Release\net8.0\ref\Banking.Logging.dll

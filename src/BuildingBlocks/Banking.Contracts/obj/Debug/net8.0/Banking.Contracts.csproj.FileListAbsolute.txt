@@ -1,0 +1,11 @@
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\bin\Debug\net8.0\Banking.Contracts.deps.json
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\bin\Debug\net8.0\Banking.Contracts.dll
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\bin\Debug\net8.0\Banking.Contracts.pdb
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\obj\Debug\net8.0\Banking.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\obj\Debug\net8.0\Banking.Contracts.AssemblyInfoInputs.cache
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\obj\Debug\net8.0\Banking.Contracts.AssemblyInfo.cs
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\obj\Debug\net8.0\Banking.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\obj\Debug\net8.0\Banking.Contracts.dll
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\obj\Debug\net8.0\refint\Banking.Contracts.dll
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\obj\Debug\net8.0\Banking.Contracts.pdb
+C:\Users\trand\Desktop\BankingSolution\src\BuildingBlocks\Banking.Contracts\obj\Debug\net8.0\ref\Banking.Contracts.dll
