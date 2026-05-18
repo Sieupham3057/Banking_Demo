@@ -15,7 +15,20 @@ services:
     networks:
       - banking-net
       
-      
+  banking-api-2:
+    build:
+      context: ../../
+      dockerfile: src/Services/Banking/Banking.API/Dockerfile
+    image: banking-api:latest
+    container_name: banking-api-2
+    restart: unless-stopped
+    env_file: ../env/.env
+    ports:
+      - "9090:8080"
+    
+    networks:
+      - banking-net
+
 networks:
   banking-net:
     driver: bridge
