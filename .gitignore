@@ -53,6 +53,9 @@ packages/
 !**/[Pp]ackages/build/
 !**/[Pp]ackages/repositories.config
 
+# Claude Code
+.claude/
+
 # Visual Studio
 .vs/
 *.aps
