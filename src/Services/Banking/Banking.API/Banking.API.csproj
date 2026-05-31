@@ -21,4 +21,9 @@
     <ProjectReference Include="..\Banking.Persistence\Banking.Persistence.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DependenceInjection\Extensions\" />
+    <Folder Include="DependenceInjection\Options\" />
+  </ItemGroup>
+
 </Project>

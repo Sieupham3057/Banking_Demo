@@ -28,6 +28,8 @@ services:
     
     networks:
       - banking-net
+      - local-net
+      - infra-stack_infra-net
 
 networks:
   banking-net:
